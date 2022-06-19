@@ -1,0 +1,33 @@
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe.config
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.pdb
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form1.resources
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form2.resources
+C:\Users\monster\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form3.resources
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe.config
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.pdb
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form1.resources
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form2.resources
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form3.resources
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+C:\Users\monster\Desktop\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.AssemblyReference.cache
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form1.resources
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form2.resources
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form3.resources
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.cache
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.CoreCompileInputs.cache
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+F:\Staj Kaynakları\Staj çalışmaları\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
